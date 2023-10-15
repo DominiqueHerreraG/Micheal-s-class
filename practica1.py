@@ -12,3 +12,4 @@ WIDGET: cualquier cosa que podemos colocar en una ventana
     los botones (Button) sirven para hacer que algo ocurra en el programa, y
     los campos de entrada (Entry) sirven para ingresar datos al programa.
 '''
+print('hola mundo')
